@@ -12,3 +12,4 @@ is master protected
 recheck master protection
 xyz
 abc
+merge commits are here
