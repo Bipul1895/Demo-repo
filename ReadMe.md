@@ -6,3 +6,5 @@ Hello world!!
 
 Hello Universe!!
 Hello endline!!
+
+is master protected
